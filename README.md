@@ -8,3 +8,6 @@ _-vinayvis821_
 
 # Images
 ![alt-text](https://github.com/vinayvis821/131-project/blob/main/images/Screenshot1.png)
+![alt-text](https://github.com/vinayvis821/131-project/blob/main/images/Screenshot2.png)
+![alt-text](https://github.com/vinayvis821/131-project/blob/main/images/Screenshot3.png)
+![alt-text](https://github.com/vinayvis821/131-project/blob/main/images/Screenshot4.png)
