@@ -5,3 +5,6 @@ Pushed code here so I can track my progress and look back as I gain more experie
 This code uses the StdIn api, as well as a special package made for the class known as argsprocessor (though this can be replaced with a scanner)
 
 _-vinayvis821_
+
+# Images
+![alt-text](https://github.com/vinayvis821/131-project/blob/main/images/Screenshot1.png)
